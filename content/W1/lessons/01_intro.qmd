@@ -123,10 +123,10 @@ Your GitHub repo is your **proof-of-work**. Open the repo [HassanAlgoz/python](h
     3. `"W1 Project: step 2. pairplots"`
 ::: 
 
-## Push
+## Deadlines
 
 ::: {.incremental}
-- Labs must be **pushed daily** (due start of tomorrow's first session)
+- Labs must be **pushed daily** (due end of tomorrow's last session)
 - Exercises must be **pushed by Thursday** (due end of course)
 - Projects must be **pushed by Sunday** (due start of next course)
 - Commit history is analyzed to detect cheating
